@@ -11,7 +11,6 @@ This project analyzes real estate listings in **Casablanca, Morocco**, exploring
 |------|-------------|
 | `yakey1.py` | 🔍 Python script for web scraping real estate listings from Yakeey.com |
 | `annonces_maisons.xlsx` | 📄 Cleaned dataset with 18 real estate listings |
-
 | `dashboard_powerbi.png` | 📊 Power BI dashboard with advanced visualizations |
 
 ---
