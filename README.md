@@ -56,7 +56,6 @@ This project analyzes real estate listings in **Casablanca, Morocco**, exploring
 | `Selenium` | Browser automation for scraping |
 | `pandas` | Data manipulation |
 | `webdriver-manager` | Automatic ChromeDriver handling |
-
 | `Power BI` | Dashboard and advanced visualizations |
 
 ---
